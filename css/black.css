@@ -889,7 +889,7 @@
   .toolbar_container { background: #222; border-bottom: 1px solid #000; color: #e6e6e6; }
   .msg_right_link { color: #949494; }
   .message_location_label { color: #949494; }
-  .p-flexpane_header { background: #363636; border-color: #545454; color: #e6e6e6; }
+  .p-flexpane_header, .p-flexpane_header a { background: #363636; border-color: #545454; color: #e6e6e6; }
   #client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #363636; }
   #details_tab .heading { background: #151515; }
   #details_tab .heading a.close_flexpane { color: #949494; }
